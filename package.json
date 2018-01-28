@@ -1,0 +1,24 @@
+{
+  "name": "jvweb.io",
+  "version": "1.0.0",
+  "description": "Jamaican Vines' temporary website, containing basic info, contact details and videos.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MickStick/JVWeb.io.git"
+  },
+  "keywords": [
+    "HTML",
+    "Jamaican",
+    "Vines"
+  ],
+  "author": "Mikhail Rene Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MickStick/JVWeb.io/issues"
+  },
+  "homepage": "https://github.com/MickStick/JVWeb.io#readme"
+}
